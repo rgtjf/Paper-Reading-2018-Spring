@@ -22,4 +22,10 @@
      - experiments: (1) build Q-A pairs using Q-A patterns. (2) GenQA + Baidu Zhidao
      - related work: (1) CopyNet (Gu et al., 2016); (2) GenQA (Yin et al., 2016)
 
-3. 
+3. TO READ
+
+-  [Globally Normalized Reader](https://arxiv.org/pdf/1709.02828.pdf)
+   QA, Speed
+   
+-  [Tensor2Tensor Transformers: New Deep Models for NLP]
+
