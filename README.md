@@ -32,9 +32,10 @@
 
 4. An efficient framework for learning sentence representations 
 
-  [ICLR18](https://openreview.net/pdf?id=rJvJXZb0W)
-  1. not novel 
-  2. well-writen
-  3. strong results
+   [ICLR18](https://openreview.net/pdf?id=rJvJXZb0W)
+  
+  - not novel 
+  - well-writen
+  - strong results
   
 5. 
