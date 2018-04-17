@@ -38,4 +38,11 @@
    - well-writen
    - strong results
   
-5. 
+5. QANET: COMBINING LOCAL CONVOLUTION WITH GLOBAL SELF-ATTENTION FOR READING COMPREHENSION
+   [ICLR18](https://openreview.net/forum?id=B14TlG-RW)
+   
+   - Conv + Attention
+   - Data Augument (MT-backtranslation)
+
+
+
