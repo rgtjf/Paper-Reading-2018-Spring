@@ -44,6 +44,11 @@
    
    - Conv + Attention
    - Data Augument (MT-backtranslation)
+   
+ 6. Reinforced Co-Training
+ 
+   [NAACL18](https://arxiv.org/pdf/1804.06035.pdf)
+
 
 
 
