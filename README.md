@@ -54,7 +54,6 @@
    - RNN-sequence
    - CNN-positional n-gram
    - Attention BOW
-   
    - Attention + Position -> Multi-Head Attention
    - Position Encoding
    - Stack many layers -> RNN gate
