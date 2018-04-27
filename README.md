@@ -48,6 +48,17 @@
  6. Reinforced Co-Training
  
    [NAACL18](https://arxiv.org/pdf/1804.06035.pdf)
+   
+7. Attention Is All You Need
+
+   - RNN-sequence
+   - CNN-positional n-gram
+   - Attention BOW
+   
+   - Attention + Position -> Multi-Head Attention
+   - Position Encoding
+   - Stack many layers -> RNN gate
+  
 
 
 
